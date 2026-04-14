@@ -36,4 +36,4 @@ A simple task manager built in pure **HTML, CSS and JavaScript**, with the abili
 
 - HTML5
 - CSS3 
-- JavaScript (ES6+)
+- TypeScript
