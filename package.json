@@ -1,0 +1,15 @@
+{
+  "name": "todo_ts",
+  "version": "1.0.0",
+  "description": "Powiedziałeś(-aś):\r mam ten kod w pliku html\r <script>\r     const sortButton = document.getElementById('sortButton');\r     const sortDropdown = sortButton.closest('.sort-dropdown');",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
